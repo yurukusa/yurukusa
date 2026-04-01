@@ -1,29 +1,14 @@
-### Hi, I'm yurukusa
-
-I build safety tools for Claude Code. Non-engineer exploring what's possible when AI and humans collaborate honestly.
-
-#### What I make
-
+Non-engineer building tools and art with AI. 800+ hours of autonomous Claude Code operation.
 | Project | What it does |
 |---------|-------------|
-| [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) | One command to make Claude Code safe. 324 hooks, 45 commands, 949 tests. `npx cc-safe-setup` |
-| [**claude-code-hooks**](https://github.com/yurukusa/claude-code-hooks) | Curated hook collection with recipes and templates |
-| [**cc-hook-registry**](https://github.com/yurukusa/cc-hook-registry) | Browse 220 hooks in your browser. [Live](https://yurukusa.github.io/cc-hook-registry/) |
-| [**cc-toolkit**](https://github.com/yurukusa/cc-toolkit) | 106 developer tools as standalone CLI commands |
+| [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) | One command to make Claude Code safe. 656 hooks. `npx cc-safe-setup` |
 | [**dev-toolkit**](https://github.com/yurukusa/dev-toolkit) | 440+ browser dev tools. [Live](https://yurukusa.github.io/dev-toolkit/) |
-
-#### Writing
-
-- [dev.to/yurukusa](https://dev.to/yurukusa) — 54 articles on Claude Code hooks and AI-assisted development
-- [Zenn](https://zenn.dev/yurukusa) — Japanese technical articles + a book on Claude Code safety
-- [Qiita](https://qiita.com/yurukusa) — Japanese Claude Code tutorials
-
-#### Numbers
-
-- 8,000+ npm downloads/week (cc-safe-setup)
-- 9,200+ article views across platforms
-- 15+ GitHub Issue answers helping Claude Code users
-
-#### Philosophy
-
-Build things that help other people first. Revenue follows trust. Every tool I ship is something I actually use.
+| | |
+|---|---|
+| [**quiet life**](https://yurukusa.github.io/quiet-life/) | Touch the dark. Something alive appears |
+| [**deep breath**](https://yurukusa.github.io/deep-breath/) | Breathe with the light |
+| [**star moss**](https://yurukusa.github.io/star-moss/) | Drag to grow. Vines reach for light |
+- [Qiita](https://qiita.com/yurukusa) — 37,000+ views. Claude Code tutorials
+- [Zenn](https://zenn.dev/yurukusa) — Books on Claude Code safety + autonomous operation
+- [dev.to](https://dev.to/yurukusa) — English articles on AI-assisted development
+Build things that help other people first. Revenue follows trust.
