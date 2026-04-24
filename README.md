@@ -1,5 +1,6 @@
 Non-engineer building tools and art with AI. 800+ hours of autonomous Claude Code operation.
 🔥 **New: [Token Book — Cut Your Claude Code Token Usage in Half](https://ko-fi.com/s/fd44ef09a7)** (¥2,500 / ~$17) — 10 chapters, copy-paste templates, 800h of real data. [Free diagnostic →](https://yurukusa.github.io/cc-safe-setup/token-checkup.html) · [Details →](https://yurukusa.github.io/cc-safe-setup/token-book.html)
+🎯 **Recurring: [CC Safety Lab Founder Membership](https://ko-fi.com/yurukusa)** (¥500/month) — monthly issue on Claude Code incidents, new safety hooks, and measured token-saving observations. Founder rate locks in at sign-up.
 | Project | What it does |
 |---------|-------------|
 | [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) | One command to make Claude Code safe. 667 hooks. `npx cc-safe-setup` |
