@@ -3,7 +3,7 @@ Non-engineer building tools and art with AI. 800+ hours of autonomous Claude Cod
 🎯 **Recurring: [CC Safety Lab Founder Membership](https://ko-fi.com/yurukusa)** (¥500/month) — monthly issue on Claude Code incidents, new safety hooks, and measured token-saving observations. Founder rate locks in at sign-up.
 | Project | What it does |
 |---------|-------------|
-| [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) | One command to make Claude Code safe. 667 hooks. `npx cc-safe-setup` |
+| [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) | One command to make Claude Code safe. 800+ hooks. `npx cc-safe-setup` |
 | [**dev-toolkit**](https://github.com/yurukusa/dev-toolkit) | 440+ browser dev tools. [Live](https://yurukusa.github.io/dev-toolkit/) |
 | | |
 |---|---|
